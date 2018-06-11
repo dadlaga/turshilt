@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Demo
+public class MBA
 {
     public static void main()
     {
