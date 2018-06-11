@@ -13,6 +13,7 @@ public class Grapic extends JFrame
 
     public static void main(){
         Grapic l = new Grapic();
+        JLabel lb = new JLabel("pts");
         l.setSize(800,500);
         l.setVisible(true);
         l.setTitle("MVA");
